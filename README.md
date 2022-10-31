@@ -7,3 +7,4 @@
 Testing more details about git commands.
 another test.
 Adding a new line for testing.
+One more test line.
